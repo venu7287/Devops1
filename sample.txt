@@ -12,3 +12,4 @@ this is my first file on the gitdemo
 
 
 [B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[Bthis is new line
+this is new line
